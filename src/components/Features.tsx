@@ -24,26 +24,26 @@ const Features = () => {
   const features = [
     {
       icon: <Activity className="w-10 h-10 text-white transition-transform duration-300 transform" />,
-      title: "Sports Performance",
-      description: "Specialized fabrics that analyze form, provide instant feedback, and help prevent injuries in athletic equipment.",
+      title: "Banking Corporativo",
+      description: "Soluções bancárias completas para grandes empresas com APIs robustas e infraestrutura escalável.",
       image: "/lovable-uploads/48e540e5-6a25-44e4-b3f7-80f3bfc2777a.png"
     },
     {
       icon: <Shield className="w-10 h-10 text-white transition-transform duration-300 transform" />,
-      title: "Military & Defense",
-      description: "Tactical gear with embedded sensors for soldier health monitoring, environmental awareness, and enhanced safety.",
+      title: "Segurança Financeira",
+      description: "Proteção avançada com autenticação multi-fator, criptografia de ponta e monitoramento em tempo real.",
       image: "/lovable-uploads/48ecf6e2-5a98-4a9d-af6f-ae2265cd4098.png"
     },
     {
       icon: <HardHat className="w-10 h-10 text-white transition-transform duration-300 transform" />,
-      title: "Industrial Safety",
-      description: "Protective workwear that detects hazards, monitors fatigue, and prevents workplace injuries through early intervention.",
+      title: "Compliance Regulatório",
+      description: "Conformidade total com BACEN, LGPD e regulamentações financeiras internacionais para operações seguras.",
       image: "/lovable-uploads/cf8966e3-de0d-445f-9fbd-ee6c48daa7ff.png"
     },
     {
       icon: <Zap className="w-10 h-10 text-white transition-transform duration-300 transform" />,
-      title: "Thermal Regulation",
-      description: "Adaptive heating and cooling textiles that respond to body temperature and environmental conditions.",
+      title: "Integração Rápida",
+      description: "Deploy em semanas com nossa plataforma white label personalizável e APIs bem documentadas.",
       image: "/lovable-uploads/6739bd63-bf19-4abd-bb23-0b613bbf7ac8.png"
     }
   ];
@@ -153,10 +153,10 @@ const Features = () => {
         <div className="w-full px-4 sm:px-6 lg:px-8" ref={featuresRef}> 
           <div className="text-center mb-10 max-w-3xl mx-auto feature-item">
             <div className="inline-block mb-2 px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm font-medium">
-              Textile Sensor Applications
+              Soluções HubBank
             </div>
             <p className="text-gray-600 mt-4">
-              Our textile sensor technology transforms ordinary fabrics into intelligent interfaces that collect data, monitor conditions, and enhance performance across diverse sectors.
+              Nossa plataforma HubBank White Label transforma o setor financeiro corporativo com tecnologia de ponta, APIs robustas e compliance total para grandes empresas.
             </p>
           </div>
           
