@@ -278,13 +278,13 @@ const Features = () => {
           <div className="mt-16 mb-8 feature-item">
             <div className="text-center mb-8">
               <div className="inline-block mb-2 px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm font-medium">
-                Textile Sensor Applications
+                Soluções HubBank White Label
               </div>
-              <h3 className="text-2xl font-bold">Real-World Use Cases</h3>
+              <h3 className="text-2xl font-bold">Casos de Uso Reais</h3>
               <p className="text-gray-600 mt-3 max-w-2xl mx-auto">
-                Explore how our textile sensors are applied in different professional contexts, 
-                from emergency response to construction and athletics.
-                <span className="block text-sm mt-1 text-blue-500">Scroll horizontally to see more examples →</span>
+                Descubra como nossa plataforma HubBank é aplicada em diferentes contextos corporativos, 
+                desde bancos digitais até fintechs e grandes empresas.
+                <span className="block text-sm mt-1 text-blue-500">Role horizontalmente para ver mais exemplos →</span>
               </p>
             </div>
             
